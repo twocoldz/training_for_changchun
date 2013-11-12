@@ -39,3 +39,4 @@ Just do it!
   * ural1076 同上+理解题意+模型转换
 9. 11/12/2013
   * ural1160 最小生成树+Kruskal
+  * ural1982 最小生成树+Prim
