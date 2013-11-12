@@ -40,3 +40,4 @@ Just do it!
 9. 11/12/2013
   * ural1160 最小生成树+Kruskal
   * ural1982 最小生成树+Prim
+  * poj1679	 次小生成树 Prim实现
