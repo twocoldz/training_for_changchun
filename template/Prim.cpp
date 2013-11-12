@@ -1,8 +1,3 @@
-/*
-*   author : twocoldz
-*   date : Tue, 12 Nov 2013 13:05:27 +0800 
-*   Prim 最小生成树
-*/
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
@@ -37,7 +32,7 @@ void Prim()
 {
 	memset(vis,0,sizeof(vis));
 	memset(dis,inf,sizeof(dis));
-	for(int i=0;i<m;i++)
+	for(int i=0;i<m;i++)   //已经在集合中的点
 		dis[st[i]]=0;
 	int ans=0;
 	for(int u=1;u<=n;u++)
