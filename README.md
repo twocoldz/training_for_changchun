@@ -41,5 +41,5 @@ Just do it!
   * ural1160 最小生成树+Kruskal
   * ural1982 最小生成树+Prim
   * poj1679	 次小生成树 Prim实现
-10.11/13/2013
+10. 11/13/2013
   * poj1679  次小生成树 Kruskal实现
