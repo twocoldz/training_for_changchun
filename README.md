@@ -45,3 +45,5 @@ Just do it!
   * poj1679  次小生成树 Kruskal实现
   * poj2348  最小生成树中第k大的边，关键在于题目的转化和证明
   * poj1639  最小k度限制生成树 没写终止判断RE到死
+11. 11/14/2014
+  * ural1416 次小生成树 验模板 Prim AC Kruskal TLE 没弄明白
