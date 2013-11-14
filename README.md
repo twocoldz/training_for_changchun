@@ -47,3 +47,4 @@ Just do it!
   * poj1639  最小k度限制生成树 没写终止判断RE到死
 11. 11/14/2014
   * ural1416 次小生成树 验模板 Prim AC Kruskal TLE 没弄明白
+  * poj2728  最优比例生成树 二分实现
