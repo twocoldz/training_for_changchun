@@ -2,7 +2,7 @@
 *
 *   author : twocoldz
 *   date : 11/20/2013  11:00:11
-*   欧拉回路，双向
+*   娆ф媺鍥炶矾
 */
 
 #include <cstdio>

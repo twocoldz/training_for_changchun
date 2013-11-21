@@ -2,7 +2,7 @@
 *
 *   author : twocoldz
 *   date : 11/21/2013 1:49:00
-*   ¹şÃÜ¶Ù»ØÂ· Ä£°å£¬ÉÏ´ÎµÄÄ£°åÃ²ËÆÓĞ´í
+*   å“ˆå¯†é¡¿å›è·¯
 */
 #include <iostream>
 #include <stdio.h>

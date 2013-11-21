@@ -2,7 +2,7 @@
 *
 *    author : twocoldz
 *    date : 11/21/2013
-*    ¹şÃÜ¶Ù»ØÂ· Ä£°åÌâ
+*    å“ˆå¯†é¡¿å›è·¯
 */
 
 #include <cstdio>
