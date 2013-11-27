@@ -77,3 +77,4 @@ Just do it!
   * spoj217  2-SAT 简单推断
   * ural1471 lca tarjan
   * spoj14932 lca tarjan
+  * spoj3978 lca tarjan变形 求路径上最大和最小
