@@ -75,3 +75,4 @@ Just do it!
   * sgu307   2-SAT 数学规律， 建图 输出可行解
 21. 11/27/2013
   * spoj217  2-SAT 简单推断
+  * ural1471 lca tarjan
