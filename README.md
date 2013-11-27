@@ -76,3 +76,4 @@ Just do it!
 21. 11/27/2013
   * spoj217  2-SAT 简单推断
   * ural1471 lca tarjan
+  * spoj14932 lca tarjan
