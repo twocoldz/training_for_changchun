@@ -78,3 +78,5 @@ Just do it!
   * ural1471 lca tarjan
   * spoj14932 lca tarjan
   * spoj3978 lca tarjan变形 求路径上最大和最小
+22. 11/28/2013
+  * ural1699 lca 求转向次数
